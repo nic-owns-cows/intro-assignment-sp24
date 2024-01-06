@@ -1,4 +1,4 @@
-# intro-assignment-sp24
+# Introduction to AIM Assignment Spring 2024
 
 Hello and welcome to Purdue AIM! This is the repo containing the introductory assignment for Spring 2024 researchers and VIP students.
 
