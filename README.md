@@ -16,6 +16,6 @@ Here is your assignment:
 
 In summary, when submitting, you should have the 4 notebooks in "Assignments" done, the two MIDI files from the MIDI synth assignment + Collaborators.txt file included, and a Git history of merging the "changes" branch in.
 
-If you need help with this assignment, your first point of contact should be Microsoft Teams - there is a channel for questions called "Intro Assignment Spring 2024". You can also reach out to peers for help with the assignment. Failing that, you should contact student leaders for help.
+If you need help with this assignment, your first point of contact should be Microsoft Teams - there is a channel for questions called "Intro Assignment Spring 2024". Leaders and other members will be answering questions there. You can also reach out to peers for help with the assignment. 
 
 This assignment may seem lengthy initially, but we want to ensure that everyone has a solid foundation for doing research this semester. Failure to properly attempt the assignments (or worse, cheating on them) will likely cause trouble down the road when you have to do these sorts of tasks independently. As such, even if it's not cheating, you should aim to complete the assignments without "relying" on others to drag you through. There is a fine line between using others' help efficiently and overusing it.
